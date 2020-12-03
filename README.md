@@ -22,7 +22,7 @@ I'm Aempha also called Alpha, or by my firstname Marvin.
 [Finished]: https://img.shields.io/badge/Finished-green.svg?&style=flat-square
 
 <!-- LINKS -->
-[spd-enemies-animated-repo]: https://github.com/aempha/spd-enemies-animated
+[spd-enemies-animated-repo]: ../spd-enemies-animated
 
 <!-- BADGES -->
 [None]: https://img.shields.io/badge/None-%23323330.svg?&style=flat-square
