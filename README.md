@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Aempha also called Alpha, or by my real name Marvin Bauer.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aempha&show_icons=true&theme=radical)
+![Aempha's github stats](https://github-readme-stats.vercel.app/api?username=aempha&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aempha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
