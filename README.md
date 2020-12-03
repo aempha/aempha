@@ -8,7 +8,7 @@ I'm Aempha also called Alpha, or by my firstname Marvin.
 | Name                  | Description                                      | Status   | Link                                  | Lang                             |
 | --------------------- | ------------------------------------------------ | -------- | ------------------------------------- | -------------------------------- |
 | as-webgpu             | WebGPU bindings for AS                           | Planned  | None                                  | AssemblyScript                   |
-| 3DAS (Not fixed name) | WebGPU 3D Engine                                 | Planned  | None                                  | AssemblyScript / ![JavaScript][JavaScript] |
+| 3DAS (Not fixed name) | WebGPU 3D Engine                                 | Planned  | None                                  | ![AssemblyScript] ![JavaScript] |
 | spd-enemies-animated  | Shattered Pixel Dungeon assets converted to GIFs | Finished | [Source](spd-enemies-animated-source) | None                             |
 
 ## Where you can find me
@@ -22,3 +22,4 @@ I'm Aempha also called Alpha, or by my firstname Marvin.
 
 <!-- Badges -->
 [JavaScript]: https://img.shields.io/badge/JavaScript-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23f0db4f
+[AssemblyScript]: https://img.shields.io/badge/AssemblyScript-%23323330.svg?&style=flat-square&logo=assemblyscript&logoColor=%23f0db4f
