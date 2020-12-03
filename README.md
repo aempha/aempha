@@ -5,13 +5,20 @@ I'm Aempha also called Alpha, or by my firstname Marvin.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aempha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
-| Name                  | Description                                      | Status   | Link                                                     | Lang                        |
-| --------------------- | ------------------------------------------------ | -------- | -------------------------------------------------------- | --------------------------- |
-| as-webgpu             | WebGPU bindings for AS                           | Planned  | None                                                     | AssemblyScript              |
-| 3DAS (Not fixed name) | WebGPU 3D Engine                                 | Planned  | None                                                     | AssemblyScript / JavaScript |
-| spd-enemies-animated  | Shattered Pixel Dungeon assets converted to GIFs | Finished | [Source](https://github.com/aempha/spd-enemies-animated) | None                        |
+| Name                  | Description                                      | Status   | Link                                  | Lang                             |
+| --------------------- | ------------------------------------------------ | -------- | ------------------------------------- | -------------------------------- |
+| as-webgpu             | WebGPU bindings for AS                           | Planned  | None                                  | AssemblyScript                   |
+| 3DAS (Not fixed name) | WebGPU 3D Engine                                 | Planned  | None                                  | AssemblyScript / ![JavaScript][JavaScript] |
+| spd-enemies-animated  | Shattered Pixel Dungeon assets converted to GIFs | Finished | [Source](spd-enemies-animated-source) | None                             |
 
 ## Where you can find me
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/aempha)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Alpha_LionTac)
 [![Discord](https://img.shields.io/badge/-Alpha__ISMC%236720-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](#StopClickingMe)
+
+<!-- MARKDWON VARIABLES -->
+<!-- Projects -->
+[spd-enemies-animated-source]: https://github.com/aempha/spd-enemies-animated
+
+<!-- Badges -->
+[JavaScript]: https://img.shields.io/badge/JavaScript-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23f0db4f
