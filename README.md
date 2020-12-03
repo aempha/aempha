@@ -7,9 +7,9 @@ I'm Aempha also called Alpha, or by my firstname Marvin.
 ## Projects
 | Name                  | Description                                      | Status      | Link                                  | Lang                             |
 | --------------------- | ------------------------------------------------ | ----------- | ------------------------------------- | -------------------------------- |
-| as-webgpu             | WebGPU bindings for AS                           | ![Planned]  | None                                  | ![AS]                            |
-| 3DAS (Not fixed name) | WebGPU 3D Engine                                 | ![Planned]  | None                                  | ![AS] [![TS]][TS_URL]            |
-| spd-enemies-animated  | Shattered Pixel Dungeon assets converted to GIFs | ![Finished] | [Repo](spd-enemies-animated-repo)     | ![None]                          |
+| as-webgpu             | WebGPU bindings for AS                           | ![Planned]  | None                                  | [![AS]][AS_URL]                  |
+| 3DAS (Not fixed name) | WebGPU 3D Engine                                 | ![Planned]  | None                                  | [![AS]][AS_URL] [![TS]][TS_URL]  |
+| spd-enemies-animated  | Shattered Pixel Dungeon assets converted to GIFs | ![Finished] | [Repo](spd-enemies-animated-repo)     | [![None]](#)                     |
 
 ## Where you can find me
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/aempha)
@@ -31,3 +31,4 @@ I'm Aempha also called Alpha, or by my firstname Marvin.
 [TS_URL]: https://www.typescriptlang.org/
 
 [AS]: https://img.shields.io/badge/AssemblyScript-%23654FF0?&style=flat-square&logo=WebAssembly&logoColor=white
+[AS_URL]: https://www.assemblyscript.org/
