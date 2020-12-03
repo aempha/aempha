@@ -2,7 +2,7 @@
 I'm Aempha also called Alpha, or by my firstname Marvin.
 
 ![Aempha's github stats](https://github-readme-stats.vercel.app/api?username=aempha&show_icons=true&icon_color=904e95&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aempha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aempha&layout=compact&bg_color=30,904e95,e96443&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 | Name                  | Description                                      | Status      | Link                                  | Lang                             |
