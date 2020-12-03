@@ -1,15 +1,21 @@
 ### Hi there 👋
 I'm Aempha also called Alpha, or by my firstname Marvin.
 
-![Aempha's github stats](https://github-readme-stats.vercel.app/api?username=aempha&show_icons=true&icon_color=904e95&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aempha&layout=compact&bg_color=30,904e95,e96443&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-## Projects
+## 🔨 Projects
 | Name                  | Description                                      | Status      | Link                                  | Lang                             |
-| --------------------- | ------------------------------------------------ | ----------- | ------------------------------------- | -------------------------------- |
+| --------------------- | ------------------------------------------------ | :---------: | ------------------------------------- | -------------------------------- |
 | as-webgpu             | WebGPU bindings for AS                           | ![Planned]  | None                                  | [![AS]][AS_URL]                  |
 | 3DAS (Not fixed name) | WebGPU 3D Engine                                 | ![Planned]  | None                                  | [![AS]][AS_URL] [![TS]][TS_URL]  |
 | spd-enemies-animated  | Shattered Pixel Dungeon assets converted to GIFs | ![Finished] | [Repo][spd-enemies-animated-repo]     | ![None]                          |
+
+## 📈 GitHub Stats
+![Aempha's github stats](https://github-readme-stats.vercel.app/api?username=aempha&show_icons=true&icon_color=904e95&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aempha&layout=compact&bg_color=30,904e95,e96443&title_color=fff&text_color=fff)
+
+## 🔧 Technologies & Tools
+| Programming Languages | Markup languages | IDEs & Editors | 
+| --------------------- |----------------- | -------------- |
+| ![TS]                 | ![HTML]          |                |
 
 ## Where you can find me
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/aempha)
@@ -32,3 +38,5 @@ I'm Aempha also called Alpha, or by my firstname Marvin.
 
 [AS]: https://img.shields.io/badge/AssemblyScript-%23654FF0?&style=flat-square&logo=WebAssembly&logoColor=white
 [AS_URL]: https://www.assemblyscript.org/
+
+[HTML]: https://img.shields.io/badge/HTML5-%23E34F26?&style=flat-square&logo=HTML5&logoColor=white
