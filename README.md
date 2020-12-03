@@ -12,11 +12,6 @@ I'm a student living near Cologne, Germany, who is interested in programming.
 ![Aempha's github stats](https://github-readme-stats.vercel.app/api?username=aempha&show_icons=true&icon_color=904e95&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aempha&layout=compact&bg_color=30,904e95,e96443&title_color=fff&text_color=fff)
 
-## 🔧 Technologies & Tools
-| Programming languages | Markup languages | IDEs & Editors | 
-| --------------------- |----------------- | -------------- |
-| ![TS]                 | ![HTML]          | ![VSCode]      |
-
 ## Where you can find me
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/aempha)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Alpha_LionTac)
@@ -39,6 +34,3 @@ I'm a student living near Cologne, Germany, who is interested in programming.
 [AS]: https://img.shields.io/badge/AssemblyScript-%23654FF0?&style=flat-square&logo=WebAssembly&logoColor=white
 [AS_URL]: https://www.assemblyscript.org/
 
-[HTML]: https://img.shields.io/badge/HTML5-%23E34F26?&style=flat-square&logo=HTML5&logoColor=white
-
-[VSCode]: https://img.shields.io/badge/VS_Code-%23007ACC?&style=flat-square&logo=code&logoColor=white
