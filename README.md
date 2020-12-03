@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm Aempha also called Alpha, or by my firstname Marvin.
+### Hi there 👋, I'm Marvin Bauer
+I'm a student living near Cologne, Germany, who is interested in programming.
 
 ## 🔨 Projects
 | Name                  | Description                                      | Status      | Link                                  | Lang                             |
@@ -13,9 +13,9 @@ I'm Aempha also called Alpha, or by my firstname Marvin.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aempha&layout=compact&bg_color=30,904e95,e96443&title_color=fff&text_color=fff)
 
 ## 🔧 Technologies & Tools
-| Programming Languages | Markup languages | IDEs & Editors | 
+| Programming languages | Markup languages | IDEs & Editors | 
 | --------------------- |----------------- | -------------- |
-| ![TS]                 | ![HTML]          |                |
+| ![TS]                 | ![HTML]          | ![VSCode]      |
 
 ## Where you can find me
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/aempha)
@@ -40,3 +40,5 @@ I'm Aempha also called Alpha, or by my firstname Marvin.
 [AS_URL]: https://www.assemblyscript.org/
 
 [HTML]: https://img.shields.io/badge/HTML5-%23E34F26?&style=flat-square&logo=HTML5&logoColor=white
+
+[VSCode]: https://img.shields.io/badge/VS_Code-%23007ACC?&style=flat-square&logo=code&logoColor=white
