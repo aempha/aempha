@@ -7,9 +7,9 @@ I'm Aempha also called Alpha, or by my firstname Marvin.
 ## Projects
 | Name                  | Description                                      | Status   | Link                                  | Lang                             |
 | --------------------- | ------------------------------------------------ | -------- | ------------------------------------- | -------------------------------- |
-| as-webgpu             | WebGPU bindings for AS                           | Planned  | None                                  | AssemblyScript                   |
+| as-webgpu             | WebGPU bindings for AS                           | Planned  | None                                  | ![AssemblyScript]                |
 | 3DAS (Not fixed name) | WebGPU 3D Engine                                 | Planned  | None                                  | ![AssemblyScript] ![TypeScript]  |
-| spd-enemies-animated  | Shattered Pixel Dungeon assets converted to GIFs | Finished | [Source](spd-enemies-animated-source) | None                             |
+| spd-enemies-animated  | Shattered Pixel Dungeon assets converted to GIFs | Finished | [Repo](spd-enemies-animated-repo)     | ![None]                          |
 
 ## Where you can find me
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/aempha)
@@ -18,8 +18,9 @@ I'm Aempha also called Alpha, or by my firstname Marvin.
 
 <!-- MARKDWON VARIABLES -->
 <!-- Projects -->
-[spd-enemies-animated-source]: https://github.com/aempha/spd-enemies-animated
+[spd-enemies-animated-repo]: https://github.com/aempha/spd-enemies-animated
 
 <!-- Badges -->
+[None]: https://img.shields.io/badge/None-%23323330.svg?&style=flat-square
 [TypeScript]: https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat-square&logo=TypeScript&logoColor=white
 [AssemblyScript]: https://img.shields.io/badge/AssemblyScript-%23323330.svg?&style=flat-square&logo=AssemblyScript&logoColor=%23f0db4f
