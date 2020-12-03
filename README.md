@@ -7,8 +7,8 @@ I'm Aempha also called Alpha, or by my firstname Marvin.
 ## Projects
 | Name                  | Description                                      | Status      | Link                                  | Lang                             |
 | --------------------- | ------------------------------------------------ | ----------- | ------------------------------------- | -------------------------------- |
-| as-webgpu             | WebGPU bindings for AS                           | ![Planned]  | None                                  | ![AssemblyScript]                |
-| 3DAS (Not fixed name) | WebGPU 3D Engine                                 | ![Planned]  | None                                  | ![AssemblyScript] ![TypeScript]  |
+| as-webgpu             | WebGPU bindings for AS                           | ![Planned]  | None                                  | ![AS]                            |
+| 3DAS (Not fixed name) | WebGPU 3D Engine                                 | ![Planned]  | None                                  | ![AS] [![TS]]([TS_URL])          |
 | spd-enemies-animated  | Shattered Pixel Dungeon assets converted to GIFs | ![Finished] | [Repo](spd-enemies-animated-repo)     | ![None]                          |
 
 ## Where you can find me
@@ -26,5 +26,8 @@ I'm Aempha also called Alpha, or by my firstname Marvin.
 
 <!-- BADGES -->
 [None]: https://img.shields.io/badge/None-%23323330.svg?&style=flat-square
-[TypeScript]: https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat-square&logo=TypeScript&logoColor=white
-[AssemblyScript]: https://img.shields.io/badge/AssemblyScript-%23654FF0?&style=flat-square&logo=WebAssembly&logoColor=white
+
+[TS]: https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat-square&logo=TypeScript&logoColor=white
+[TS_URL]: https://www.typescriptlang.org/
+
+[AS]: https://img.shields.io/badge/AssemblyScript-%23654FF0?&style=flat-square&logo=WebAssembly&logoColor=white
