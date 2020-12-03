@@ -5,7 +5,8 @@ I'm Aempha also called Alpha, or by my real name Marvin Bauer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aempha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
-| Name                  | Description                                      | Status   | Link                                                     | Lang           |
-| --------------------- | ------------------------------------------------ | -------- | -------------------------------------------------------- | -------------- |
-| as-webgpu             | WebGPU bindings for AS                           | Planned  | None                                                     | AssemblyScript |
-| spd-enemies-animated  | Shattered Pixel Dungeon assets converted to GIFs | Finished | [Source](https://github.com/aempha/spd-enemies-animated) | None           |
+| Name                  | Description                                      | Status   | Link                                                     | Lang                        |
+| --------------------- | ------------------------------------------------ | -------- | -------------------------------------------------------- | --------------------------- |
+| as-webgpu             | WebGPU bindings for AS                           | Planned  | None                                                     | AssemblyScript              |
+| 3DAS (Not fixed name) | WebGPU 3D Engine                                 | Planned  | None                                                     | AssemblyScript / JavaScript |
+| spd-enemies-animated  | Shattered Pixel Dungeon assets converted to GIFs | Finished | [Source](https://github.com/aempha/spd-enemies-animated) | None                        |
