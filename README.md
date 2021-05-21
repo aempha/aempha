@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Marvin Bauer
-I'm a student living near Cologne, Germany, who is interested in programming.
+### Hi there 👋
+Nothing interesting here right now, sorry :/
 
 ## Where you can find me
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/aempha)
